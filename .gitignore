@@ -1,0 +1,7 @@
+Codes/KEIL/lst
+Codes/KEIL/obj
+*-bak
+*.ini
+*.TMP
+*.bak
+*.zip
